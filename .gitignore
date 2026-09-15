@@ -1,0 +1,17 @@
+node_modules/
+.pnpm-store/
+__pycache__/
+*.py[cod]
+.venv/
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+.env
+.env*.local
+!.env.example
+data/
+.DS_Store
+.idea/
+.vscode/
